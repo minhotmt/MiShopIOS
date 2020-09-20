@@ -22,5 +22,6 @@ target 'FStore' do
   pod 'ActionSheetPicker-3.0'
   pod 'CreditCardForm'
   pod 'Stripe'
+  pod 'Firebase/Core'
   
 end
